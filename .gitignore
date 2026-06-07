@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+venv_gym/
+
+build/
+dist/
+*.spec~
+
+# Local app data. Contains member photos/attendance/fees.
+gymPro.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Local generated exports/logs.
+*.csv
+*.log
